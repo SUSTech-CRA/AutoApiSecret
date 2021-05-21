@@ -9,8 +9,8 @@ on:
       - main
   #  branches: 
   #    - master
-  schedule:
-    - cron: '12 */6 * * *'
+  #schedule:
+#    - cron: '12 */6 * * *'
   watch:
     types: [started]
    
